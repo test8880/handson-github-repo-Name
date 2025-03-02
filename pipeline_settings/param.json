@@ -1,7 +1,7 @@
 {
   "Parameters": {
-    "FunctionName": "cfn-lmd-Name",
-    "Description": "cfn-lmd-Name",
+    "FunctionName": "cfn-lmd-handson-Name",
+    "Description": "cfn-lmd-handson-Name",
     "Handler": "index.lambda_handler",
     "MemorySize": "128",
     "Runtime": "python3.9",
